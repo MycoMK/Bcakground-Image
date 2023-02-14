@@ -1,0 +1,12 @@
+body{
+     background-color: blue;
+    text-align: center;
+}
+
+div{
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    display: inline-block;
+    background-image: url('2.jpeg');
+}
